@@ -3,6 +3,7 @@
 <h2>Best way > </h2>
 
 <nav>
-  <a href="Main/Profile/index.html">Profile</a> |
-
+  <a href="https://naylor-oficia.github.io/Professional/Main/Profile/index.html">Profile</a> |
+  <a href="#">Certifications</a> |
+  <a href="#">Skills</a>
 </nav>
