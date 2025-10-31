@@ -1,1 +1,14 @@
+body {
+       background-image: url('Main/Home/src/background/img/arch_linux-black.png'); 
+       background-size: cover;
+       background-position: center;
+       background-attachment: fixed;
+       margin: 0;
+       padding: 0;
+       font-family: Arial, sans-serif;
+       color: white;
+}
 
+.nav_up a {
+          border: white solid 1px;
+}
